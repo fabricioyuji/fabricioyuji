@@ -1,6 +1,4 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/fabricioyuji/fabricioyuji/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+## Hello, World!! I'm Yuji, welcome to my projects and abstractions 🤖
 
 <p align="center">I ❤️ solve great challenges using data. <br><br> From analyzing models using Pandas and Numpy to developing visualizations using Matplotlib, Seaborn and PowerBI, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>mid-level data analyst</strong> focused on becoming a data scientist.</p>&nbsp;
 
@@ -72,4 +70,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23A999&height=120&section=footer"/>
